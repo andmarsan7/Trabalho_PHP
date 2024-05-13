@@ -1,2 +1,2 @@
-# Trabalho_PHP
-Criar 5 páginas em PHP dentro de um site
+Criar um programa em PHP, com tema livre, utilizando os principais tópicos disponíveis na disciplina.
+Criar pelo menos 5 páginas com PHP. (Critério: criatividade e complexidade).
