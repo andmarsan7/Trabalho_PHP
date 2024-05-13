@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+	outline: none;
+	font-family: "Arial";
+}
+
+.txt{
+	height: 35px;
+	width: 250px;
+	border: none;
+	border-radius: 5px;
+	background-color: #EEE;
+	padding: 4px;	
+}
+
+table#tab_lista{
+    height: 250px;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 100px;
+    border-collapse: collapse;
+    box-shadow: 5px 5px 2.5px #888888;
+    border:1px solid #000000;
+}
+
+table#tab_lista td, tr {
+    border: 1px solid #CCC;
+}
+
+#tab_cadastro{
+	height: 250px;
+	margin: 0 auto;
+	padding: 10px;
+	margin-top: 200px;
+}
+
+input#botao_cad{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+}
+
+#cor_cabecalho{
+    background-color: #AAA;
+    font-weight: bold;
+    text-align: center;
+}
